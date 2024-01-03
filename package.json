@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@portkey/detect-provider": "^1.1.1-alpha.1",
+    "aelf-sdk": "^3.4.2-alpha",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
